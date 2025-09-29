@@ -7,5 +7,9 @@
             ],
             "schema": {}
         }
-    ]
+    ],
+    "files.associations": {
+        ".webappignore": "plaintext",
+        "*.ignore": "plaintext"
+    }
 }
