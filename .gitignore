@@ -2,6 +2,8 @@
 env/.env.*.user
 env/.env.local
 env/.env.sandbox
+env/.env.playground
+env/.env.dev
 .localConfigs
 .localConfigs.playground
 .localConfigs

@@ -8,7 +8,7 @@
  * Azure AI Foundry Agent → M365 Agents SDK → Azure AI Projects → AI Agent
  */
 
-// M365 Agents SDK - Provides Teams bot framework and activity handling
+// M365 Agents SDK - Provides M365 Agents SDK handling and activity handling
 const { ActivityTypes } = require("@microsoft/agents-activity");
 const { AgentApplication, MemoryStorage } = require("@microsoft/agents-hosting");
 
